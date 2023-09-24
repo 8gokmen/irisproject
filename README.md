@@ -15,13 +15,13 @@ The project provides a set of scripts to extract the iris segments from the eye 
 Clone the repository.
 
 ```bash
-git clone https://github.com/nicoloalbergoni/iris
+git clone https://github.com/nicoloalbergoni/irisproject
 ```
 
 Inside the project directory create a Virtual Environment.
 
 ```bash
-cd iridology-CNN\
+cd irisproject\
 virtualenv venv
 ```
 
